@@ -1,0 +1,59 @@
+NOTARVM TABVLA. 1
+
+A = codex AntverpIensie3 cf. p. X.
+
+B = codex Bruxelleneie3 cf. p. X.
+
+0 = codicum ABV coneeneue; cf. p. XII.
+
+D = codex Bruxelleneie; cf. p. XVII.
+
+Ε = excerpta3 cf. p. XXII.
+
+Μ = codex Montepeeeulanue3 cf. p. XXIII.
+
+N = codex Montepeceulanue3 cI. p. 1.
+
+0 = codIces omnes, qui collati eunt, praeter eum, cuiue scrip·
+tura in lemmatis loco posita aut separatim com-
+memorata cet (in ipsis igitur controvereiIe et eua-
+soriis 0 = OD).
+
+P = codex Parisinus3 cf. p. XXVI.
+
+Β = codex Parisinus (corbennacum cI. p. XXVII.
+
+Ψ = codex Toletanus3 cI. p. XIII.
+
+V = codex Vaticanue3 cf. p. XI.
+
+α = codex Admuntanue3 cf. p. XXV.
+
+b = codex Bambergensie3 cf. p. 359.
+
+β = codex BeroIIneneie3 cf. p. XXVII.
+
+γ = codex Parisinue; cI. p. 224.
+
+d = codex Vaticanus (Vrbinae); cI. p. 508.
+
+ε = codex MutinensIe (Eateneie); cf. p. 432.
+
+λ = codex Vaticanus3 cf. p. XXX et 254.
+
+μ = codex Parisinus (Mazarinaeue); cf. p. 204.
+
+ν -- editio princepe Neapolitana3 cf. p. XXXVI.
+
+π = codex Parisinue3 cf. p. 243.
+
+ρ = codex Vaticanus (Baginensie); cf. p. 359.
+
+σ = codex Parisinus (Sorbonnianue); cf. p. 102.
+
+τ = codicis Toletani corrector3 cf. p. XVII.
+
+υ = codex Vaticacue3 cf. p. XV.
+
+ 
+
